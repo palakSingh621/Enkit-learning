@@ -1,8 +1,10 @@
 *{
     font-family: 'Rubik', sans-serif;
-    margin:0; padding:0;
+    margin:0;
+    padding:5px;
     box-sizing: border-box;
-    outline: none; border:none;
+    outline: none; 
+    border:none;
     text-decoration: none;
     transition: .2s linear;
     text-transform: capitalize;
@@ -12,7 +14,8 @@
     background-color: #b2ddf3;
  }
  .cred-container{
-    height: auto;
-    width: 45%;
+    align-content: center;
+    height: 100%;
+    width: 70%;
     background-color:blanchedalmond;
  }
